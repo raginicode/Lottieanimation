@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lottieanimation</string>
+    <string name="it_s_good_mood_food">It\'s good mood food.</string>
+    <string name="giving_your_taste_a_magic_taste">Giving your Taste a Magic Taste</string>
+    <string name="good_food_for_good_moments">Good Food for Good Moments</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="next">next</string>
+</resources>
